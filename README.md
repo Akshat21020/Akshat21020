@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Akshat21020
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Besides coding I love to travel
+# 👋 Hi, I’m Akshat
+- I am current studying in Delhi Technological University
+- I have keen interest in DSA
+- I am current learning Web Development
+- 📫 How to reach me : Mail me at gargakshat2102@gmail.com
 
 <!---
 Akshat21020/Akshat21020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
