@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Akshat
-- I am current studying in Delhi Technological University
-- I have keen interest in DSA
-- I am current learning Web Development
+- 📚 I am currently pursuing my Btech at Delhi Technological University
+- 💻 I have keen interest in DSA and solving problems
+- 🧑‍💻 I am current learning Web Development
 - 📫 How to reach me : Mail me at gargakshat2102@gmail.com
 
 <!---
